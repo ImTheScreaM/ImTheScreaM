@@ -1,6 +1,7 @@
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif)
 
 ## I'm beginner Frontend Programmist
+##
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
@@ -11,3 +12,7 @@
 ![GIT](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 
+## My tools
+##
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
