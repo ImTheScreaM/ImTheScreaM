@@ -1,7 +1,6 @@
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif)
 
-##g
-
+<hr>
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
@@ -12,6 +11,31 @@
 ![GIT](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 
-## My tools
+<hr>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+
+       
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=E818F7&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://git.io/typing-svg)
+
+
+<hr>
+
+
+<div style="text-align:center"> 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+
+<hr>
+
+[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=radical&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
+
+<hr>
+
+![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=dracula)
+
+
+</div>
+
+
+
+
