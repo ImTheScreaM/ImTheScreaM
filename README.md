@@ -1,4 +1,11 @@
+
+<div> 
+&nbsp;
+&nbsp;
+
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif)
+
+</div>
 
 <hr>
 
@@ -31,11 +38,53 @@
 
 <div align="center"> 
 
-[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=radical&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
 
 <hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=dracula)
+[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=radical&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
+
+
+
+<hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=radical)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=radical)
+
+<hr>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+[![ScreaMgitActiv](https://github-readme-activity-graph.cyclic.app/graph?username=ImTheScreaM&theme=react)](https://github.com/ImTheScreaM/github-readme-activity-graph)
 
 
 </div>
