@@ -1,6 +1,6 @@
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif)
 
-## I'm beginner Frontend Programmist
+##g
 
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
