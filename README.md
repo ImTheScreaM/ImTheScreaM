@@ -3,9 +3,7 @@
 &nbsp;
 &nbsp;
 
-<!-- ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif) -->
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/1.gif)
-![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/yoriichi.gif)
 
 </div>
 
