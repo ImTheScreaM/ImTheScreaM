@@ -4,6 +4,7 @@
 &nbsp;
 
 ![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/1.gif)
+![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/2.gif)
 
 </div>
 
