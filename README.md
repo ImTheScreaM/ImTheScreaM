@@ -85,12 +85,6 @@
 
 [![ScreaMgitActiv](https://github-readme-activity-graph.cyclic.app/graph?username=ImTheScreaM&theme=react)](https://github.com/ImTheScreaM/github-readme-activity-graph)
 
-<hr>
-
-![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/52big.gif)
-![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/52small.gif)
-
-
 </div>
 
 
