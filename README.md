@@ -39,8 +39,6 @@
 
 <div align="center"> 
 
-
-<hr>
 &nbsp;
 &nbsp;
 &nbsp;
