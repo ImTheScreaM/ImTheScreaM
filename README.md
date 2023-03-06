@@ -11,7 +11,7 @@
 <hr>
 
        
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=FF3BA2&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://git.io/typing-svg)
 
 
 <hr>
@@ -48,7 +48,7 @@
 &nbsp;
 &nbsp;
 
-[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=radical&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
+[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=react&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
 
 
 
@@ -60,7 +60,7 @@
 &nbsp;
 &nbsp;
 
-![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=radical)
+![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=react)
 
 &nbsp;
 &nbsp;
@@ -75,7 +75,7 @@
 &nbsp;
 &nbsp;
 
-![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=radical)
+![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=react)
 
 <hr>
 &nbsp;
