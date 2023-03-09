@@ -13,6 +13,17 @@
        
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://git.io/typing-svg)
 
+<hr>
+
+&nbsp;
+
+<div align="center"> 
+<a href="https://www.codewars.com/users/YoriichiTsug">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=68&pause=1000&color=aqua&center=true&vCenter=true&repeat=false&width=435&height=140&lines=CodeWars)](https://git.io/typing-svg)
+</a>
+
+</div>
 
 <hr>
 
