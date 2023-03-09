@@ -20,7 +20,7 @@
 <div align="center"> 
 <a href="https://www.codewars.com/users/YoriichiTsug">
 
-[![https://www.codewars.com/users/YoriichiTsug](https://readme-typing-svg.herokuapp.com?font=Arial&size=68&pause=1000&color=aqua&center=true&vCenter=true&repeat=false&width=435&height=140&lines=CodeWars)](https://git.io/typing-svg)
+[![https://www.codewars.com/users/YoriichiTsug](https://readme-typing-svg.herokuapp.com?font=Arial&size=68&pause=1000&color=aqua&center=true&vCenter=true&repeat=false&width=435&height=140&lines=CodeWars)](https://www.codewars.com/users/YoriichiTsug)
 </a>
 
 </div>
