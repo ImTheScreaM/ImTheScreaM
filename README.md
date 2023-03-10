@@ -15,22 +15,17 @@
 
 <hr>
 
-&nbsp;
-
-<div align="center"> 
-<a href="https://www.codewars.com/users/YoriichiTsug">
-
-[![https://www.codewars.com/users/YoriichiTsug](https://readme-typing-svg.herokuapp.com?font=Arial&size=68&pause=1000&color=aqua&center=true&vCenter=true&repeat=false&width=435&height=68&lines=CodeWars)](https://www.codewars.com/users/YoriichiTsug)
-</a>
-
-
-</div>
-<hr>
-
 <div align="center"> 
 &nbsp;
 
 ![Music](https://novatorem.vercel.app/api/spotify?)
+
+<hr>
+&nbsp;
+<div align="center">
+
+<a href="https://www.codewars.com/users/YoriichiTsug"><img src="https://img.shields.io/badge/%20My%20CodeWars-rgb(0,170,250)?style=for-the-badge" width="300px" height="70" style="border-radius:15px;">
+</a>
 
 </div>
 
