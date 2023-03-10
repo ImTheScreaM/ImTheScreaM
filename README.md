@@ -21,10 +21,10 @@
 ![Music](https://novatorem.vercel.app/api/spotify?)
 
 <hr>
-&nbsp;
+
 <div align="center">
 
-<a href="https://www.codewars.com/users/YoriichiTsug"><img src="https://img.shields.io/badge/%20My%20CodeWars-rgb(0,170,250)?style=for-the-badge" width="300px" height="70" style="border-radius:15px;">
+<a href="https://www.codewars.com/users/YoriichiTsug"><img src="https://img.shields.io/badge/%20My%20CodeWars-rgb(0,170,250)?style=for-the-badge" width="300px" height="70">
 </a>
 
 </div>
