@@ -68,7 +68,7 @@
 &nbsp;
 &nbsp;
 
-![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=tokyonight)(https://github.com/ImTheScreaM)
+[![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=tokyonight)](https://github.com/ImTheScreaM)
 
 &nbsp;
 &nbsp;
@@ -83,7 +83,7 @@
 &nbsp;
 &nbsp;
 
-![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight)(https://github.com/ImTheScreaM)
+[![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight)](https://github.com/ImTheScreaM)
 
 <hr>
 &nbsp;
