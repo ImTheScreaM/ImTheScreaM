@@ -3,22 +3,22 @@
 &nbsp;
 <div align="center"> 
 
-![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/1.gif)
-![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/2.gif)
+[![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/1.gif)](https://github.com/ImTheScreaM)
+[![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/2.gif)](https://github.com/ImTheScreaM)
 
 </div>
 
 <hr>
 
        
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://github.com/ImTheScreaM)
 
 <hr>
 
 <div align="center"> 
 &nbsp;
 
-![Music](https://novatorem.vercel.app/api/spotify?)
+[![Music](https://novatorem.vercel.app/api/spotify?)](https://github.com/ImTheScreaM)
 
 <hr>
 
