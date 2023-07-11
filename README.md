@@ -56,7 +56,7 @@
 &nbsp;
 &nbsp;
 
-[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=tokyonight&layout=compact)](https://github.com/ImTheScreaM/github-readme-stats)
+[![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=tokyonight&layout=compact)](https://github.com/ImTheScreaM)
 
 
 
@@ -68,7 +68,7 @@
 &nbsp;
 &nbsp;
 
-![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=tokyonight)
+![ScreamGitStat](https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=tokyonight) (https://github.com/ImTheScreaM)
 
 &nbsp;
 &nbsp;
@@ -83,7 +83,7 @@
 &nbsp;
 &nbsp;
 
-![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight)
+![ScreaMstreak](https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight) (https://github.com/ImTheScreaM)
 
 <hr>
 &nbsp;
@@ -93,7 +93,7 @@
 &nbsp;
 &nbsp;
 
-[![ScreaMgitActiv](https://github-readme-activity-graph.vercel.app/graph?username=ImTheScreaM&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ScreaMgitActiv](https://github-readme-activity-graph.vercel.app/graph?username=ImTheScreaM&theme=react)](https://github.com/ImTheScreaM)
 
 </div>
 
