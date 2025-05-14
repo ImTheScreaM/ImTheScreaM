@@ -41,7 +41,7 @@
 ![SASS](https://img.shields.io/badge/sass-20232A?style=for-the-badge&logo=sass)
 ![GIT](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
