@@ -1,7 +1,7 @@
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
-<div align="center"> 
+<div align="center">
 
 [![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/1.gif)](https://github.com/ImTheScreaM)
 [![Header](https://github.com/ImTheScreaM/ImTheScreaM/blob/main/assets/2.gif)](https://github.com/ImTheScreaM)
@@ -10,8 +10,7 @@
 
 <hr>
 
-       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=44&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://github.com/ImTheScreaM)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=42&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1900&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://github.com/ImTheScreaM)
 
 <hr>
 
@@ -41,13 +40,13 @@
 ![SASS](https://img.shields.io/badge/sass-20232A?style=for-the-badge&logo=sass)
 ![GIT](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
-![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
 <hr>
 
-<div align="center"> 
+<div align="center">
 
 &nbsp;
 &nbsp;
@@ -57,8 +56,6 @@
 &nbsp;
 
 [![ScreamGitStat](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=tokyonight&layout=compact)](https://github.com/ImTheScreaM)
-
-
 
 <hr>
 &nbsp;
@@ -96,9 +93,3 @@
 [![ScreaMgitActiv](https://github-readme-activity-graph.vercel.app/graph?username=ImTheScreaM&theme=react)](https://github.com/ImTheScreaM)
 
 </div>
-
-
-
-
-
-
