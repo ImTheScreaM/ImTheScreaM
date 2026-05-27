@@ -17,14 +17,6 @@
 
 <div align="center">
 
-[![Music](https://novatorem.vercel.app/api/spotify?)](https://github.com/ImTheScreaM)
-
-</div>
-
-<hr>
-
-<div align="center">
-
 <a href="https://www.codewars.com/users/YoriichiTsug">
   <img src="https://img.shields.io/badge/My%20CodeWars-rgb(0,170,250)?style=for-the-badge" width="250px">
 </a>
@@ -48,16 +40,6 @@
 </div>
 
 <hr>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheScreaM&theme=tokyonight&layout=compact" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ImTheScreaM&show_icons=true&theme=tokyonight" />
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight" />
 
