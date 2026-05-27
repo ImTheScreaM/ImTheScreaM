@@ -41,7 +41,10 @@
 
 <hr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight" />
+</div>
+
 
 <br><br>
 
