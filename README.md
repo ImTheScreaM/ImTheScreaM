@@ -9,14 +9,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clarendon+Hv+BT&weight=700&size=32&duration=3200&pause=500&color=aqua&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hello;I'm+a+beginner+Frontend+JavaScript%2FReact+developer)](https://github.com/ImTheScreaM)
-
-</div>
-
-<hr>
-
-<div align="center">
-
 <a href="https://www.codewars.com/users/YoriichiTsug">
   <img src="https://img.shields.io/badge/My%20CodeWars-rgb(0,170,250)?style=for-the-badge" width="250px">
 </a>
