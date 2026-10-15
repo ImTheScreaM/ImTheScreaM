@@ -28,8 +28,8 @@
 ![Git](https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-[![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=white)](#)
-
+![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=white)]
+![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)
 </div>
 
 <hr>
@@ -42,5 +42,9 @@
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImTheScreaM&theme=react" />
+
+<br><br>
+
+Contact: miracledeathinvoker@gmail.com
 
 </div>
