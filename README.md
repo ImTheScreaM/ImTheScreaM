@@ -38,11 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImTheScreaM&theme=tokyonight" />
 </div>
 
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImTheScreaM&theme=react" />
-
 <br><br>
 
 Contact: miracledeathinvoker@gmail.com
