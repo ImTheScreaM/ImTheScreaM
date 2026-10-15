@@ -30,8 +30,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge?logo=postman&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge?logo=docker&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-20232A?logo=postman&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-20232A?logo=docker&logoColor=white)](#)
 
 </div>
 
